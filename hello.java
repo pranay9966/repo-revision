@@ -1,7 +1,6 @@
 class hello
 {
-
-	Kevin is shouting
+:wq
 
 }
 
